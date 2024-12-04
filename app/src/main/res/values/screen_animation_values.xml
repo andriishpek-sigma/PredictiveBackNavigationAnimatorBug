@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="screen_anim_interpolator" type="interpolator">
+        @interpolator/m3_sys_motion_easing_emphasized
+    </item>
+    <integer name="screen_anim_duration">450</integer>
+    <dimen name="screen_anim_slide_distance_end">60dp</dimen>
+    <dimen name="screen_anim_slide_distance_start">-60dp</dimen>
+</resources>
